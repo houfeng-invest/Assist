@@ -1,0 +1,147 @@
+{
+    "results": {
+        "api_version": "2.0",
+        "return_code": "SUCCESS",
+        "result_datas": {
+            "survey_info": {
+                "subjective_symptoms": {
+                    "title": "最近一カ月の自覚症状について",
+                    "question_details": [
+                                         {
+                                         "question_id":1,
+                                         "question_info":"イライラする",
+
+                                         "answer_infos": [
+                                                          {
+                                                          "id": 1,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 2,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 3,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 4,
+                                                          "info": "ほとんどない"
+                                                          }
+
+
+
+                                                          ]
+                                         },
+                                         {
+                                         "question_id":1,
+                                         "question_info":"イライラする",
+                                         "answer_infos": [
+                                                          {
+                                                          "id": 1,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 2,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 3,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 4,
+                                                          "info": "ほとんどない"
+                                                          }
+
+
+
+                                                          ]
+                                         }
+                                         ]
+                },
+                "job_status": {
+                    "title": "最近６カ月のお仕事状況について、",
+                    "question_details": [
+                                         {
+                                         "question_id":1,
+                                         "question_info":"イライラする",
+                                         "answer_infos": [
+                                                          {
+                                                          "id": 1,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 2,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 3,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 4,
+                                                          "info": "ほとんどない"
+                                                          }
+
+
+
+                                                          ]
+                                         },
+                                         {
+                                         "question_id":1,
+                                         "question_info":"イライラする",
+                                         "answer_infos": [
+                                                          {
+                                                          "id": 8,
+                                                          "info": "多い"
+                                                          }
+                                                          ]
+                                         }
+                                         ]
+                },
+                "autonomous_determination": {
+                    "title": "今のご自身に一番近いと思う物について",
+                    "question_details": [
+                                         {
+                                         "question_id":1,
+                                         "question_info":"イライラする",
+                                         "answer_infos": [
+                                                          {
+                                                          "id": 1,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 2,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 3,
+                                                          "info": "ほとんどない"
+                                                          },
+                                                          {
+                                                          "id": 4,
+                                                          "info": "ほとんどない"
+                                                          }
+
+
+
+                                                          ]
+                                         },
+                                         {
+                                         "question_id":1,
+                                         "question_info":"イライラする",
+                                         "answer_infos": [
+                                                          {
+                                                          "id": 13,
+                                                          "info": "夜にしっかり眠っても昼間はぼんやり眠い"
+                                                          }
+                                                          ]
+                                         }
+                                         ]
+                }
+            },
+            "version": "2.0"
+        }
+    }
+}

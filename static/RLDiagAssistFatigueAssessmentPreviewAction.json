@@ -1,0 +1,21 @@
+{
+    "results": {
+        "api_version": "3.0",
+        "return_code": "SUCCESS",
+        "result_datas": {
+            "autonomous_determination": {
+                "careful_wording": [
+                    "理想的"
+                ],
+                "evaluation": [
+                    "交感神経高",
+                    "副交感神経高"
+                ]
+            },
+            "physical_workload": {
+                "degree_num": 1,
+                "corresponding_advice": "ノープロブレム！実年齢よりも若々しく見られているはず。自身を持って今の生活を維持していきましょう！"
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "results": {
+        "api_version": "3.0",
+        "return_code": "SUCCESS",
+        "result_datas": {
+            "bodypart_related_version": "1.0",
+            "disease_info_version": "1.0",
+            "fatigue_assessment_version": "2.0"
+        }
+    }
+}

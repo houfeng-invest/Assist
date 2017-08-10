@@ -1,0 +1,255 @@
+{
+    "results": {
+        "api_version": "2.0",
+        "return_code": "SUCCESS",
+        "result_datas": {
+            "discomfort_bodypart_infos": {
+                "head_neck": {
+                    "name": "頭・頚部",
+                    "code": "1000000",
+                    "detail": [
+                        {
+                            "code": "1000001"
+                        },
+                        {
+                            "code": "1000002"
+                        }
+                    ]
+                },
+                "shoulder_back_left": {
+                    "name": "肩・背部（左）",
+                    "code": "2000010",
+                    "detail": [
+                        {
+                            "code": "2000011"
+                        },
+                        {
+                            "code": "2000012"
+                        }
+                    ]
+                },
+                "shoulder_back_right": {
+                    "name": "肩・背部（右）",
+                    "code": "2000020",
+                    "detail": [
+                        {
+                            "code": "2000021"
+                        },
+                        {
+                            "code": "2000022"
+                        }
+                    ]
+                },
+                "wrist_hand_left": {
+                    "name": "腕・手部（左）",
+                    "code": "3000010",
+                    "detail": [
+                        {
+                            "code": "3000011"
+                        },
+                        {
+                            "code": "3000012"
+                        },
+                        {
+                            "code": "3000013"
+                        },
+                        {
+                            "code": "3000014"
+                        }
+                    ]
+                },
+                "wrist_hand_right": {
+                    "name": "腕・手部（右）",
+                    "code": "3000020",
+                    "detail": [
+                        {
+                            "code": "3000021"
+                        },
+                        {
+                            "code": "3000022"
+                        },
+                        {
+                            "code": "3000023"
+                        },
+                        {
+                            "code": "3000024"
+                        }
+                    ]
+                },
+                "trunk_left": {
+                    "name": "体幹（左）",
+                    "code": "4000010",
+                    "detail": [
+                        {
+                            "code": "4000011"
+                        },
+                        {
+                            "code": "4000012"
+                        }
+                    ]
+                },
+                "trunk_right": {
+                    "name": "体幹（右）",
+                    "code": "4000020",
+                    "detail": [
+                        {
+                            "code": "4000021"
+                        },
+                        {
+                            "code": "4000022"
+                        }
+                    ]
+                },
+                "buttocks_leg_left": {
+                    "name": "殿・腿部（左）",
+                    "code": "5000010",
+                    "detail": [
+                        {
+                            "code": "5000011"
+                        },
+                        {
+                            "code": "5000012"
+                        },
+                        {
+                            "code": "5000013"
+                        }
+                    ]
+                },
+                "buttocks_leg_right": {
+                    "name": "殿・腿部（右）",
+                    "code": "5000020",
+                    "detail": [
+                        {
+                            "code": "5000021"
+                        },
+                        {
+                            "code": "5000022"
+                        },
+                        {
+                            "code": "5000023"
+                        }
+                    ]
+                },
+                "foot_left": {
+                    "name": "脚・足部（左）",
+                    "code": "6000010",
+                    "detail": [
+                        {
+                            "code": "6000011"
+                        },
+                        {
+                            "code": "6000012"
+                        }
+                    ]
+                },
+                "foot_right": {
+                    "name": "脚・足部（右）",
+                    "code": "6000020",
+                    "detail": [
+                        {
+                            "code": "6000021"
+                        },
+                        {
+                            "code": "6000022"
+                        }
+                    ]
+                }
+            },
+            "muscle_infos": [
+                {
+                    "code": "1001",
+                    "name": "内側翼突筋（右）",
+                    "resource_code": "1001",
+                    "resource_url": "healthy/assistant/config/muscles/1001.jpg"
+                },
+                {
+                    "code": "1002",
+                    "name": "内側翼突筋（左）",
+                    "resource_code": "1002",
+                    "resource_url": "healthy/assistant/config/muscles/1002.jpg"
+                }
+            ],
+            "movement_inspection_infos": [
+                {
+                    "code": "10001",
+                    "name": "頚部前屈",
+                    "resource_code": "10001",
+                    "resource_url": "healthy/assistant/config/muscles/10001.jpg"
+                },
+                {
+                    "code": "10002",
+                    "name": "頚部後屈",
+                    "resource_code": "10002",
+                    "resource_url": "healthy/assistant/config/muscles/10002.jpg"
+                }
+            ],
+            "manual_inspection_infos": [
+                {
+                    "code": "100001",
+                    "name": "スパーリングテスト",
+                    "resource_code": "100001",
+                    "resource_url": "healthy/assistant/config/muscles/100001.jpg"
+                },
+                {
+                    "code": "100002",
+                    "name": "モーリーテスト",
+                    "resource_code": "100002",
+                    "resource_url": "healthy/assistant/config/muscles/100002.jpg"
+                }
+            ],
+            "symptom_manual_inspection_infos": [
+                {
+                    "symptom_code": "1001",
+                    "symptom_name": "頚椎椎間孔の狭小化",
+                    "manual_inspections": [
+                        {
+                            "code": "100001"
+                        }
+                    ],
+                    "symptom_type": "神経"
+                }
+            ],
+            "discomfort_bodypart_muscle": [
+                {
+                    "discomfort_bodypart_code": "6000010",
+                    "muscle_codes": [
+                        {
+                            "code": "1001"
+                        }
+                    ]
+                }
+            ],
+            "subjective_muscle_related": [
+                {
+                    "subjective_muscle_code": "1001",
+                    "related_muscle_codes": [
+                        {
+                            "code": "1002"
+                        }
+                    ]
+                }
+            ],
+            "subjective_muscle_movement": [
+                {
+                    "subjective_muscle_code": "1001",
+                    "movement_inspection_codes": [
+                        {
+                            "code": "10001"
+                        }
+                    ]
+                }
+            ],
+            "movement_manual_inspection": [
+                {
+                    "movement_code": "10001",
+                    "manual_inspection_codes": [
+                        {
+                            "code": "100001"
+                        }
+                    ]
+                }
+            ],
+            "version": "2.0"
+        }
+    }
+}

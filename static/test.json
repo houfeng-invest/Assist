@@ -1,0 +1,105 @@
+
+{
+
+  "bodyparts_front":[
+	{
+	"name":"頭・頸部"
+	"code":"101",
+		"muscles":[
+				{
+					"code":"1001001001",
+					"name":"xxxx"
+				},
+				{
+					"code":"1001001002",
+					"name":"xxxx"
+				}
+			],
+
+	 "blocks":[
+		{
+		   "name":"头",
+		   "code":"101001",
+
+
+		},
+		{
+			"name":"颈",
+			"code":"101002",
+		}
+	  ]
+	},
+    {
+	"name":"肩・背部"
+	"code":"102",
+	 "blocks":[
+		{
+		   "name":"左肩",
+		   "code":"102001",
+		    "muscles":[
+				{
+					"code":"1001002001",
+					"name":"xxxx"
+				},
+				{
+					"code":"1001002002",
+					"name":"xxxx"
+				}
+			]
+
+		},
+		{
+			"name":"右肩",
+			"code":"102002",
+			 "muscles":[
+				{
+					"code":"1001002001",
+					"name":"xxxx"
+				},
+				{
+					"code":"1001002002",
+					"name":"xxxx"
+				}
+			]
+		}
+	  ]
+	}
+], "bodyparts_back":[
+	{
+	"name":"頭・頸部"
+	"code":"101",
+	 "blocks":[
+		{
+		   "name":"头",
+		   "code":"101003",
+		     "muscles":[
+				{
+					"code":"101003001",
+					"name":"xxxx"
+				},
+				{
+					"code":"101003002",
+					"name":"xxxx"
+				}
+			]
+
+		},
+		{
+			"name":"颈",
+			"code":"101004",
+			 "muscles":[
+				{
+					"code":"101004001",
+					"name":"xxxx"
+				},
+				{
+					"code":"101004002",
+					"name":"xxxx"
+				}
+			]
+		}
+	  ]
+	}
+]
+
+}

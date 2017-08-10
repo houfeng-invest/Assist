@@ -1,0 +1,27 @@
+{
+    "results": {
+        "api_version": "3.0",
+        "return_code": "SUCCESS",
+        "result_datas": {
+            "subjective_symptoms": [
+                {
+                    "question_id": 1,
+                    "answer_id": 1
+                }
+            ],
+            "job_status": [
+                {
+                    "question_id": 3,
+                    "answer_id": 2
+                }
+            ],
+            "autonomous_determination": [
+                {
+                    "question_id": 4,
+                    "answer_id": 4
+                }
+            ],
+            "version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "results": {
+        "api_version": "2.0",
+        "return_code": "SUCCESS",
+        "result_datas": {
+            "disease_history": [
+                {
+                    "disease_id": 1,
+                    "first_inspect_date": "2016-02-02",
+                    "end_inspect_date": "治疗中",
+                    "remark": "1週間入院しました。"
+                }
+            ],
+            "paging_info": {
+                "page_num": 1,
+                "max_result": 1,
+                "page_total": 1
+            }
+        }
+    }
+}
