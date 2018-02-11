@@ -5,7 +5,11 @@
 
 import wx
 import os
+from PIL import Image
 
+
+front_image = "DA_body_front@2x.png"
+back_image = "DA_body_back@2x.png"
 
 class MyImageView():
     def __init__(self, parent=None, bitmap=None, pos=None):
@@ -50,29 +54,29 @@ class MyImageView():
         print(self.selected)
         e.Skip()
 
-    def mouseDown(self, event):
-        print("------------------------")
-        pos = event.GetPosition()
-        if self.selected :
-            self.curPointerPos = pos
-            self.curBitmapPostion = self.btn.GetPosition()
-            self.curBitmapPostion = self.curBitmapPostion + pos
-            self.btn.SetPosition(self.curBitmapPostion)
-
-
-    def mouseMove(self, event):
-        pos = event.GetPosition()
-        if self.selected :
-            if self.curPointerPos != None and self.curBitmapPostion != None:
-                self.curPointerPos = pos
-                self.curBitmapPostion = self.btn.GetPosition()
-                self.curBitmapPostion = self.curBitmapPostion + pos
-                self.btn.SetPosition(self.curBitmapPostion)
-
-
-    def mouseUp(self, event):
-        self.curBitmapPostion = None
-        self.curPointerPos = None
+    # def mouseDown(self, event):
+    #     print("------------------------")
+    #     pos = event.GetPosition()
+    #     if self.selected :
+    #         self.curPointerPos = pos
+    #         self.curBitmapPostion = self.btn.GetPosition()
+    #         self.curBitmapPostion = self.curBitmapPostion + pos
+    #         self.btn.SetPosition(self.curBitmapPostion)
+    #
+    #
+    # def mouseMove(self, event):
+    #     pos = event.GetPosition()
+    #     if self.selected :
+    #         if self.curPointerPos != None and self.curBitmapPostion != None:
+    #             self.curPointerPos = pos
+    #             self.curBitmapPostion = self.btn.GetPosition()
+    #             self.curBitmapPostion = self.curBitmapPostion + pos
+    #             self.btn.SetPosition(self.curBitmapPostion)
+    #
+    #
+    # def mouseUp(self, event):
+    #     self.curBitmapPostion = None
+    #     self.curPointerPos = None
 
 
 class FileDrop(wx.FileDropTarget):
@@ -98,10 +102,10 @@ class BodyMap(wx.Frame):
         self.ms = []
         self.selectedImg = None
 
-        temp = wx.Image("DA_body_front@2x.png", wx.BITMAP_TYPE_PNG)
+        temp = wx.Image(front_image, wx.BITMAP_TYPE_PNG)
         w, h = temp.GetWidth() / 2, temp.GetHeight() / 2
-        self.back = wx.Image("DA_body_back@2x.png", wx.BITMAP_TYPE_PNG).Scale(w, h).ConvertToBitmap()
-        self.front = wx.Image("DA_body_front@2x.png", wx.BITMAP_TYPE_PNG).Scale(w, h).ConvertToBitmap()
+        self.back = wx.Image(back_image, wx.BITMAP_TYPE_PNG).Scale(w, h).ConvertToBitmap()
+        self.front = wx.Image(front_image, wx.BITMAP_TYPE_PNG).Scale(w, h).ConvertToBitmap()
 
         wx.Frame.__init__(self, None, id=-1, title="Body Map", pos=wx.DefaultPosition, size=(1024, 768))
         wx.StaticBitmap(parent=self, bitmap=self.front)
@@ -127,7 +131,7 @@ class BodyMap(wx.Frame):
         x = pos.x
         if x > 500:
             x = x - 500
-        self.posCtrl.SetValue("%s, %s" % (x, pos.y))
+        # self.posCtrl.SetValue("%s, %s" % (x, pos.y))
         if self.selectedImg != None:
             self.selectedImg.btn.SetPosition(pos)
             self.curBitmapPostion = self.selectedImg.btn.GetPosition()
@@ -140,7 +144,7 @@ class BodyMap(wx.Frame):
         x = pos.x
         if x > 500:
             x = x - 500
-        self.posCtrl.SetValue("%s, %s" % (x, pos.y))
+        # self.posCtrl.SetValue("%s, %s" % (x, pos.y))
         if self.curPointerPos != None and self.curBitmapPostion != None:
             movPos = event.GetPosition() - self.curPointerPos
             print(movPos)

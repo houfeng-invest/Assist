@@ -1,0 +1,23 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+chinaBank = pd.read_csv('./datas/ChinaBank.csv',index_col='Date')
+
+# print(chinaBank.head())
+# chinaBank = chinaBank.iloc[:,1:]
+# print(chinaBank.head())
+# chinaBank.index = pd.to_datetime(chinaBank.index)
+#
+# close = chinaBank.Close
+# print(close.head())
+# plt.plot(close['2014'])
+# plt.show()
+
+prcData = chinaBank.iloc[:,:4]
+# print(prcData.head())
+
+data = np.array(prcData)
+print(data)
+plt.boxplot(data,labels=('Open','High','low','Close'))
+plt.show()
