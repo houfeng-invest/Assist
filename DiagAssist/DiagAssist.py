@@ -1,9 +1,16 @@
-from flask import Flask,request,make_response
+from flask import Flask,request,make_response,jsonify
 from flask_restful import  Resource,Api,reqparse
 import random
+import os
+import json
+
+
 #from flaskext.mysql import  MySQL
-import pymysql
-import pymysql.cursors
+
+
+
+
+
 
 app = Flask(__name__,static_folder='static')
 app.config['MYSQL_DATABASE_USER'] = 'houfeng'
@@ -11,18 +18,48 @@ app.config['MYSQL_DATABASE_PASSWORD'] = 'houfengabc123'
 app.config['MYSQL_DATABASE_DB'] = 'diagassist'
 app.config['MYSQL_DATABASE_HOST'] = 'localhost'
 
+UPLOAD_FOLDER='upload'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+basedir = os.path.abspath(os.path.dirname(__file__))
+ALLOWED_EXTENSIONS = set(['txt','png','jpg','xls','JPG','PNG','xlsx','gif','GIF'])
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.',1)[1] in ALLOWED_EXTENSIONS
+
+@app.route('/uploadfile',methods=['POST'],strict_slashes=False)
+def api_upload():
+    file_dir = os.path.join(basedir, app.config['UPLOAD_FOLDER'])
+    if not os.path.exists(file_dir):
+        os.makedirs(file_dir)
+    f = request.files['uploadFile']  # 从表单的file字段获取文件，file为该表单的name值
+    print(request.values)
+    print(request.files)
+    uploaded_files = request.files.getlist("uploadFile[]")
+    print(uploaded_files)
+    for f in uploaded_files:
+        print(f.filename)
+        if f and allowed_file(f.filename):
+            f.save(os.path.join(app.config['UPLOAD_FOLDER'],f.filename))
+    return jsonify({"results":{"api_version":"3.0","result_datas":{}}})
+    # if f and allowed_file(f.filename):  # 判断是否是允许上传的文件类型
+    #     new_filename = f.filename
+    #     print(new_filename)
+    #     f.save(new_filename)  #保存文件到upload目录
+    #     return jsonify({"results":{"api_version":"3.0","result_datas":{}}})
+    # else:
+    #     return jsonify({"errno": 1001, "errmsg": u"failed"})
 # mysql = MySQL()
 # mysql.init_app(app)
 
-config = {
-          'host':'127.0.0.1',
-          'port':3306,
-          'user':'houfeng',
-          'password':'houfengabc123',
-          'db':'diagassist',
-          'charset':'utf8',
-          'cursorclass':pymysql.cursors.DictCursor,
-          }
+# config = {
+#           'host':'127.0.0.1',
+#           'port':3306,
+#           'user':'houfeng',
+#           'password':'houfengabc123',
+#           'db':'diagassist',
+#           'charset':'utf8',
+#           'cursorclass':pymysql.cursors.DictCursor,
+#           }
 
 #connection = pymysql.connect(**config)
 
@@ -218,6 +255,13 @@ class RLTest(Resource):
 class RLIp(Resource):
     def get(self):
         return request.remote_addr
+
+
+UPLOAD_FOLDER='upload'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+basedir = os.path.abspath(os.path.dirname(__file__))
+ALLOWED_EXTENSIONS = set(['txt','png','jpg','xls','JPG','PNG','xlsx','gif','GIF'])
+
 
 api.add_resource(RLTest,'/api/test')
 api.add_resource(RLDiagAssistGetConfigVersionsAction,'/api/v3/da/config')

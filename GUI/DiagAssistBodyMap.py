@@ -98,7 +98,7 @@ class FileDrop(wx.FileDropTarget):
 
 class BodyMap(wx.Frame):
     def __init__(self, parent=None, id=-1, pos=wx.DefaultPosition, title=""):
-
+        wx.Frame.__init__(self, None, id=-1, title="Body Map", pos=wx.DefaultPosition, size=(1024, 768))
         self.ms = []
         self.selectedImg = None
 
@@ -107,7 +107,7 @@ class BodyMap(wx.Frame):
         self.back = wx.Image(back_image, wx.BITMAP_TYPE_PNG).Scale(w, h).ConvertToBitmap()
         self.front = wx.Image(front_image, wx.BITMAP_TYPE_PNG).Scale(w, h).ConvertToBitmap()
 
-        wx.Frame.__init__(self, None, id=-1, title="Body Map", pos=wx.DefaultPosition, size=(1024, 768))
+
         wx.StaticBitmap(parent=self, bitmap=self.front)
         wx.StaticBitmap(parent=self, bitmap=self.back, pos=(500, 0))
 

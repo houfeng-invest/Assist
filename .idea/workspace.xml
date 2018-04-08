@@ -2,46 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bdad52f-bb2c-40dd-a35a-29572c029d1c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/MacbookPro.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D3JS/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataAnalyse/Spider/DiskCache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataAnalyse/Spider/Downloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataAnalyse/Spider/LinkCrawler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataAnalyse/Spider/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataAnalyse/SpiderTool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataAnalyse/cninfo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataAnalyse/cninfotest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataMining/EmailAnalyse.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataMining/ch3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataMining/q2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataMining/quant1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/MLinAction/DecisionTree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/MLinAction/bayes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/MLinAction/kNN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/MLinAction/logRegres.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/MLinAction/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/Numpy/ch1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/scikit-learn/sklearn_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NET/scaner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/AnalyseCodes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/AutoTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/ImageTool/FilterImage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/ImageTool/ImageTool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/ImageTool/InvertBitmap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/ImageTool/RESizeImage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/ImageTool/tool.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DiagAssist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/RLDiagAssistFatigueAssessmentPreviewAction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/RLDiagAssistGetBodypartRelatedConfigAction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/RLDiagAssistGetConfigVersionsAction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/RLDiagAssistGetCurrentMedicalRecordAction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/RLDiagAssistGetCurrentMedicalRecordsAction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/RLDiagAssistGetDiseaseConfigAction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/RLDiagAssistGetFatigueAssessmentAction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/RLDiagGetFatigueAssessmentConfigAction.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/test.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlockChain/Blockchain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI/DiagAssistBodyImageTester.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI/DiagAssistFindDiscomfortMusclesGUI.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataMining/DataAnalyse1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/DataMining/DataAnalyseWithPython1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/ImageTool/CompareImage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/ImageTool/ImageIntersect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/IposDemoModeCustomerMatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tool/NetTool/RLAction.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GUI.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Assist.iml" afterPath="$PROJECT_DIR$/.idea/Assist.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DiagAssist/DiagAssist.py" afterPath="$PROJECT_DIR$/DiagAssist/DiagAssist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DiagAssist/client/client.py" afterPath="$PROJECT_DIR$/DiagAssist/client/client.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/DiagAssistBodyMap.py" afterPath="$PROJECT_DIR$/GUI/DiagAssistBodyMap.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tool/ImageTool/RESizeImage.py" afterPath="$PROJECT_DIR$/Tool/ImageTool/RESizeImage.py" />
     </list>
     <ignored path="Assist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,27 +33,36 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Assist$SpiderTool.coverage" NAME="SpiderTool Coverage Results" MODIFIED="1513850181582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/DataAnalyse" />
-    <SUITE FILE_PATH="coverage/Assist$DecisionTree.coverage" NAME="DecisionTree Coverage Results" MODIFIED="1516332710563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/MLinAction" />
-    <SUITE FILE_PATH="coverage/Assist$RLUpdateProfile.coverage" NAME="RLUpdateProfile Coverage Results" MODIFIED="1510032412247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool" />
+    <SUITE FILE_PATH="coverage/Assist$DiagAssistFindDiscomfortMusclesGUI.coverage" NAME="DiagAssistFindDiscomfortMusclesGUI Coverage Results" MODIFIED="1521097933182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
     <SUITE FILE_PATH="coverage/Assist$ch3.coverage" NAME="ch3 Coverage Results" MODIFIED="1513240201853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/DataMining" />
-    <SUITE FILE_PATH="coverage/Assist$sklearn_test.coverage" NAME="sklearn_test Coverage Results" MODIFIED="1502423542720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/scikit-learn" />
     <SUITE FILE_PATH="coverage/Assist$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1507799535961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/DataMining" />
-    <SUITE FILE_PATH="coverage/Assist$DiagAssist.coverage" NAME="DiagAssist Coverage Results" MODIFIED="1511846573282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DiagAssist" />
-    <SUITE FILE_PATH="coverage/Assist$AnalyseCodes.coverage" NAME="AnalyseCodes Coverage Results" MODIFIED="1513821566053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool" />
-    <SUITE FILE_PATH="coverage/Assist$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1516244227154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/MLinAction" />
+    <SUITE FILE_PATH="coverage/Assist$DiagAssist.coverage" NAME="DiagAssist Coverage Results" MODIFIED="1522222250836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DiagAssist" />
     <SUITE FILE_PATH="coverage/Assist$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1516776943458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/MLinAction" />
-    <SUITE FILE_PATH="coverage/Assist$ImageTool.coverage" NAME="ImageTool Coverage Results" MODIFIED="1513143694379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
-    <SUITE FILE_PATH="coverage/Assist$DiagAssistBodyMap.coverage" NAME="DiagAssistBodyMap Coverage Results" MODIFIED="1504160105324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/Assist$DiagAssistBodyMap.coverage" NAME="DiagAssistBodyMap Coverage Results" MODIFIED="1521024146601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
     <SUITE FILE_PATH="coverage/Assist$scaner.coverage" NAME="scaner Coverage Results" MODIFIED="1513243005406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NET" />
     <SUITE FILE_PATH="coverage/Assist$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1516781125748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/MLinAction" />
+    <SUITE FILE_PATH="coverage/Assist$IposDemoModeCustomerMatch.coverage" NAME="IposDemoModeCustomerMatch Coverage Results" MODIFIED="1519811837823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool" />
     <SUITE FILE_PATH="coverage/Assist$quant1.coverage" NAME="quant1 Coverage Results" MODIFIED="1507540510719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/DataMining" />
-    <SUITE FILE_PATH="coverage/Assist$ch1.coverage" NAME="ch1 Coverage Results" MODIFIED="1502431633594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/Numpy" />
     <SUITE FILE_PATH="coverage/Assist$FilterImage.coverage" NAME="FilterImage Coverage Results" MODIFIED="1514438647827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
+    <SUITE FILE_PATH="coverage/Assist$InvertBitmap.coverage" NAME="InvertBitmap Coverage Results" MODIFIED="1518147767394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
+    <SUITE FILE_PATH="coverage/Assist$DataAnalyse1.coverage" NAME="DataAnalyse1 Coverage Results" MODIFIED="1520314609052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/DataMining" />
+    <SUITE FILE_PATH="coverage/Assist$test.coverage" NAME="test Coverage Results" MODIFIED="1504065212812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/MLinAction" />
+    <SUITE FILE_PATH="coverage/Assist$DecisionTree.coverage" NAME="DecisionTree Coverage Results" MODIFIED="1516332710563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/MLinAction" />
+    <SUITE FILE_PATH="coverage/Assist$DiagAssistBodyImageTester.coverage" NAME="DiagAssistBodyImageTester Coverage Results" MODIFIED="1521077377400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/Assist$RLUpdateProfile.coverage" NAME="RLUpdateProfile Coverage Results" MODIFIED="1510032412247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool" />
+    <SUITE FILE_PATH="coverage/Assist$DiagAssistBodyImageTool.coverage" NAME="DiagAssistBodyImageTool Coverage Results" MODIFIED="1522742989828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
+    <SUITE FILE_PATH="coverage/Assist$sklearn_test.coverage" NAME="sklearn_test Coverage Results" MODIFIED="1502423542720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/scikit-learn" />
+    <SUITE FILE_PATH="coverage/Assist$client.coverage" NAME="client Coverage Results" MODIFIED="1522302529833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DiagAssist/client" />
+    <SUITE FILE_PATH="coverage/Assist$AnalyseCodes.coverage" NAME="AnalyseCodes Coverage Results" MODIFIED="1513821566053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool" />
+    <SUITE FILE_PATH="coverage/Assist$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1516244227154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/MLinAction" />
+    <SUITE FILE_PATH="coverage/Assist$ImageTool.coverage" NAME="ImageTool Coverage Results" MODIFIED="1513143694379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
+    <SUITE FILE_PATH="coverage/Assist$DataAnalyseWithPython1.coverage" NAME="DataAnalyseWithPython1 Coverage Results" MODIFIED="1519893955445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/DataMining" />
+    <SUITE FILE_PATH="coverage/Assist$ch1.coverage" NAME="ch1 Coverage Results" MODIFIED="1502431633594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/Numpy" />
+    <SUITE FILE_PATH="coverage/Assist$RLDraw.coverage" NAME="RLDraw Coverage Results" MODIFIED="1522204690816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
     <SUITE FILE_PATH="coverage/Assist$RLBuildipa3.coverage" NAME="RLBuildipa3 Coverage Results" MODIFIED="1506567975668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool" />
     <SUITE FILE_PATH="coverage/Assist$RESizeImage.coverage" NAME="RESizeImage Coverage Results" MODIFIED="1513146751842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
     <SUITE FILE_PATH="coverage/Assist$cninfotest.coverage" NAME="cninfotest Coverage Results" MODIFIED="1513853344555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/DataAnalyse" />
-    <SUITE FILE_PATH="coverage/Assist$InvertBitmap.coverage" NAME="InvertBitmap Coverage Results" MODIFIED="1518147767394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
-    <SUITE FILE_PATH="coverage/Assist$test.coverage" NAME="test Coverage Results" MODIFIED="1504065212812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/MLinAction" />
+    <SUITE FILE_PATH="coverage/Assist$ImageIntersect.coverage" NAME="ImageIntersect Coverage Results" MODIFIED="1520998433136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tool/ImageTool" />
     <SUITE FILE_PATH="coverage/Assist$cninfo.coverage" NAME="cninfo Coverage Results" MODIFIED="1513850174481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/DataAnalyse" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -88,25 +74,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="logRegres.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ML/MLinAction/logRegres.py">
+      <file leaf-file-name="DiagAssistBodyImageTool.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tool/ImageTool/DiagAssistBodyImageTool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.6126126">
+              <caret line="244" column="8" selection-start-line="244" selection-start-column="8" selection-end-line="244" selection-end-column="8" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#326#337#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InvertBitmap.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tool/ImageTool/InvertBitmap.py">
+      <file leaf-file-name="DiagAssist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DiagAssist/DiagAssist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15549597">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
               <folding>
-                <element signature="e#331#341#0" expanded="true" />
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="front_discomfort.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DiagAssist/upload/front_discomfort.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DiagAssist/client/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="45" column="48" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,13 +140,11 @@
         <option value="$PROJECT_DIR$/ML/DataMining/MLinAction/test.py" />
         <option value="$PROJECT_DIR$/ML/MLinAction/test.py" />
         <option value="$PROJECT_DIR$/ML/DataMining/EmailAnalyse.py" />
-        <option value="$PROJECT_DIR$/GUI/DiagAssistBodyMap.py" />
         <option value="$PROJECT_DIR$/Tool/RLBuildipa3.py" />
         <option value="$PROJECT_DIR$/ML/DataMining/quant1" />
         <option value="$PROJECT_DIR$/ML/DataMining/q2.py" />
         <option value="$PROJECT_DIR$/Tool/RLUpdateProfile.py" />
         <option value="$PROJECT_DIR$/D3JS/index.html" />
-        <option value="$PROJECT_DIR$/DiagAssist/DiagAssist.py" />
         <option value="$PROJECT_DIR$/NET/scaner.py" />
         <option value="$PROJECT_DIR$/ML/DataMining/ch3.py" />
         <option value="$PROJECT_DIR$/Tool/AutoTest.py" />
@@ -162,6 +165,23 @@
         <option value="$PROJECT_DIR$/ML/MLinAction/logRegres.py" />
         <option value="$PROJECT_DIR$/Tool/ImageTool/InvertBitmap" />
         <option value="$PROJECT_DIR$/Tool/ImageTool/InvertBitmap.py" />
+        <option value="$PROJECT_DIR$/Tool/NetTool/RLAction.py" />
+        <option value="$PROJECT_DIR$/GUI/token.txt" />
+        <option value="$PROJECT_DIR$/Tool/ImageTool/CompareImage.py" />
+        <option value="$PROJECT_DIR$/Tool/IposDemoModeCustomerMatch.py" />
+        <option value="$PROJECT_DIR$/ML/DataMining/DataAnalyseWithPython1.py" />
+        <option value="$PROJECT_DIR$/ML/DataMining/DataAnalyse1.py" />
+        <option value="$PROJECT_DIR$/BlockChain/Blockchain.py" />
+        <option value="$PROJECT_DIR$/GUI/bodyconfig.txt" />
+        <option value="$PROJECT_DIR$/GUI/discomfort_image_edge_infos.json" />
+        <option value="$PROJECT_DIR$/Tool/ImageTool/ImageIntersect.py" />
+        <option value="$PROJECT_DIR$/GUI/DiagAssistBodyMap.py" />
+        <option value="$PROJECT_DIR$/GUI/DiagAssistBodyImageTester.py" />
+        <option value="$PROJECT_DIR$/GUI/DiagAssistFindDiscomfortMusclesGUI.py" />
+        <option value="$PROJECT_DIR$/Tool/ImageTool/RLDraw.py" />
+        <option value="$PROJECT_DIR$/DiagAssist/DiagAssist.py" />
+        <option value="$PROJECT_DIR$/DiagAssist/client/client.py" />
+        <option value="$PROJECT_DIR$/Tool/ImageTool/DiagAssistBodyImageTool.py" />
       </list>
     </option>
   </component>
@@ -171,9 +191,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1032" />
-    <option name="y" value="5" />
-    <option name="width" value="2011" />
+    <option name="x" value="-1388" />
+    <option name="y" value="56" />
+    <option name="width" value="1255" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -201,7 +221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -209,16 +228,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Assist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -262,73 +271,16 @@
               <option name="myItemId" value="Assist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NET" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLinAction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLinAction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -339,80 +291,8 @@
       <recent name="$PROJECT_DIR$/ML/DataMining/datas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.InvertBitmap">
-    <configuration default="false" name="kNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/MLinAction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Assist" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/MLinAction/kNN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DecisionTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/MLinAction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Assist" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/MLinAction/DecisionTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/MLinAction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Assist" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/MLinAction/bayes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="logRegres" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/MLinAction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Assist" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/MLinAction/logRegres.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="InvertBitmap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DiagAssistBodyImageTool">
+    <configuration default="false" name="DiagAssistBodyImageTool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -425,7 +305,79 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Assist" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tool/ImageTool/InvertBitmap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tool/ImageTool/DiagAssistBodyImageTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DiagAssistFindDiscomfortMusclesGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Assist" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/DiagAssistFindDiscomfortMusclesGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RLDraw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tool/ImageTool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Assist" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tool/ImageTool/RLDraw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DiagAssist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiagAssist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Assist" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiagAssist/DiagAssist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiagAssist/client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Assist" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiagAssist/client/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -624,19 +576,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.kNN" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DecisionTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.bayes" />
-      <item index="3" class="java.lang.String" itemvalue="Python.logRegres" />
-      <item index="4" class="java.lang.String" itemvalue="Python.InvertBitmap" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DiagAssistBodyImageTool" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DiagAssistFindDiscomfortMusclesGUI" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RLDraw" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DiagAssist" />
+      <item index="4" class="java.lang.String" itemvalue="Python.client" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.InvertBitmap" />
-        <item index="1" class="java.lang.String" itemvalue="Python.logRegres" />
-        <item index="2" class="java.lang.String" itemvalue="Python.bayes" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DecisionTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.kNN" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DiagAssistBodyImageTool" />
+        <item index="1" class="java.lang.String" itemvalue="Python.client" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DiagAssist" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RLDraw" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DiagAssistFindDiscomfortMusclesGUI" />
       </list>
     </recent_temporary>
   </component>
@@ -663,26 +615,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1032" y="5" width="2011" height="777" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1388" y="56" width="1255" height="777" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13509396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2835944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47878787" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39334342" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57966614" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24987303" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272727" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34891486" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34353268" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -729,357 +681,319 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="23" />
+      <option name="time" value="40" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tool/CrashCount.py">
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/DiagAssistBodyImageTool.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#326#337#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/RLUpdateProfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.051903114">
-          <caret line="457" column="26" selection-start-line="457" selection-start-column="26" selection-end-line="457" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/core/frame.py">
+    <entry file="file://$PROJECT_DIR$/DiagAssist/DiagAssist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3152" column="47" selection-start-line="3152" selection-start-column="38" selection-end-line="3152" selection-end-column="47" />
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12456747">
-          <caret line="2690" column="4" selection-start-line="2690" selection-start-column="4" selection-end-line="2690" selection-end-column="4" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/DiagAssist/upload/front_discomfort.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/AutoTest.py">
+    <entry file="file://$PROJECT_DIR$/Tool/RLCustomerManagementQueryCustomersAction.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/CashCount2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61937714">
-          <caret line="322" column="42" selection-start-line="322" selection-start-column="28" selection-end-line="322" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/AnalyseCodes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1280277">
-          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/DataMining/ch3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.051903114">
-          <caret line="355" column="37" selection-start-line="355" selection-start-column="37" selection-end-line="355" selection-end-column="37" />
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tool/RLBuildipa3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.28541225">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.051903">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/__init__.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/io/excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/bs4/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Tool/RLCustomerManagementQueryCustomersAction1.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8304498">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2606635">
+          <caret line="2436" column="29" selection-start-line="2436" selection-start-column="29" selection-end-line="2436" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33217993">
-          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/DataAnalyse/cninfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/DataAnalyse/cninfotest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/DataAnalyse/SpiderTool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/DataAnalyse/Spider/Downloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/DataAnalyse/Spider/LinkCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5083799">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/DataAnalyse/myspider/myspider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/DataAnalyse/Spider/DiskCache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83386075">
-          <caret line="69" column="12" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/ImageTool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/newiamges/DA_test5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/newiamges/DA_test3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/DA_test3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/addd.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/DA_aaa.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/DA_test2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/newiamges/DA_test2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/newiamges/DA_aaa.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/newiamges/addd.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/FilterImage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.094936706">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NET/scaner.py">
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/CompareImage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ML/MLinAction/test.py">
+    <entry file="file://$PROJECT_DIR$/ML/DataMining/DataAnalyseWithPython1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ML/MLinAction/data/datingTestSet2.txt">
+    <entry file="file://$PROJECT_DIR$/BlockChain/Blockchain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.81594205">
+          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ML/MLinAction/data/datingTestSet.txt">
+    <entry file="file://$PROJECT_DIR$/ML/DataMining/DataAnalyse1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3043478">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ML/MLinAction/kNN.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/pyplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.02173913">
+          <caret line="427" column="4" selection-start-line="427" selection-start-column="4" selection-end-line="427" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ML/MLinAction/DecisionTree.py">
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/da_search_test3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/da_search_test5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3319239">
-          <caret line="80" column="19" selection-start-line="73" selection-start-column="0" selection-end-line="82" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.10169491">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ML/MLinAction/bayes.py">
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/ImageTool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/MLinAction/data/testSet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/matrixlib/defmatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="258" column="0" selection-start-line="258" selection-start-column="0" selection-end-line="258" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1602" column="0" selection-start-line="1602" selection-start-column="0" selection-end-line="1602" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ML/MLinAction/logRegres.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/axes/_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.041208792">
-          <caret line="1405" column="0" selection-start-line="1405" selection-start-column="0" selection-end-line="1405" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/axes/_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.041208792">
-          <caret line="243" column="0" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.5338983">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tool/ImageTool/RESizeImage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53571427">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="e#1#11#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="23" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/dstimg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/IposDemoModeCustomerMatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="62" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/edgetest2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/edgetest.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/PIL/Image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-389.7037">
-          <caret line="1401" column="59" selection-start-line="1401" selection-start-column="59" selection-end-line="1401" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/bitmap/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04021448">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="163" column="7" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tool/ImageTool/InvertBitmap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15549597">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/rl_da_test_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/bodyconfig.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="118" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/da_search_test6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/da_search_test1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/images/27顎二腹筋.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/da_search_test2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/ImageIntersect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21852387">
+          <caret line="272" column="14" selection-start-line="268" selection-start-column="3" selection-end-line="272" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/discomfort_image_index_infos.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/wx/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="849" column="19" selection-start-line="849" selection-start-column="4" selection-end-line="849" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/wx/core.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3678161">
+          <caret line="25717" column="8" selection-start-line="25717" selection-start-column="8" selection-end-line="25717" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/DiagAssistBodyImageTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.034642033">
+          <caret line="391" column="40" selection-start-line="391" selection-start-column="29" selection-end-line="391" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/DiagAssistBodyMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.034642033">
+          <caret line="129" column="33" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/DiagAssistFindDiscomfortMusclesGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33497536">
+          <caret line="133" column="11" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/da_search_test1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/da_search_test2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/back1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/RLDraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8672986">
+          <caret line="407" column="11" selection-start-line="407" selection-start-column="7" selection-end-line="407" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/da_search_test.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/werkzeug/wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="505" column="8" selection-start-line="505" selection-start-column="8" selection-end-line="505" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiagAssist/upload/front_discomfort.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/packages/urllib3/connectionpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="851" column="0" selection-start-line="851" selection-start-column="0" selection-end-line="851" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiagAssist/DiagAssist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
           <folding>
-            <element signature="e#331#341#0" expanded="true" />
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiagAssist/client/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tool/ImageTool/DiagAssistBodyImageTool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6126126">
+          <caret line="244" column="8" selection-start-line="244" selection-start-column="8" selection-end-line="244" selection-end-column="8" />
+          <folding>
+            <element signature="e#326#337#0" expanded="true" />
           </folding>
         </state>
       </provider>
